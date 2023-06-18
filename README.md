@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/b14fbf91-d88f-4e42-b74f-64b9a2873b2e" alt="Image description">
+</p>
 
 # PermissionMaster (Coming Soon)
 

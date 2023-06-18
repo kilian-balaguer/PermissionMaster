@@ -16,3 +16,7 @@ PermissionMaster is currently under development and not available for public use
 # Contributions
 
 Contributions to PermissionMaster are welcome! If you're interested in contributing, please reach out to the project maintainer for more information.
+
+# Fotos
+![Scherm­afbeelding 2023-06-18 om 12 10 56](https://github.com/appletech75/PermissionMaster/assets/122736906/b48997dd-9c0a-467d-94c9-cc374f95c0f6)
+![Scherm­afbeelding 2023-06-18 om 12 11 15](https://github.com/appletech75/PermissionMaster/assets/122736906/cb16ec29-3506-4f8d-9169-e645be8babb2)

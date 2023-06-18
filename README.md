@@ -2,7 +2,7 @@
 
 PermissionMaster is an upcoming macOS app designed to simplify the management of app permissions on your system. Stay tuned for the release of this powerful tool that will make managing permissions a breeze.
 
-#Features
+# Features
 
 Intuitive Interface: PermissionMaster will offer a user-friendly interface, making it easy for users to navigate and manage app permissions.
 Scan Installed Apps: The app will scan your system to retrieve a list of installed applications, providing you with an overview of the apps currently on your macOS.
@@ -13,10 +13,6 @@ Getting Started
 
 PermissionMaster is currently under development and not available for public use. Please check back later for updates on the release and instructions on how to get started.
 
-#Contributions
+# Contributions
 
 Contributions to PermissionMaster are welcome! If you're interested in contributing, please reach out to the project maintainer for more information.
-
-#License
-
-PermissionMaster is released under the MIT License. See the LICENSE file for more details.

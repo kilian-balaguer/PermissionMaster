@@ -1,4 +1,4 @@
-#PermissionMaster (Coming Soon)
+# PermissionMaster (Coming Soon)
 
 PermissionMaster is an upcoming macOS app designed to simplify the management of app permissions on your system. Stay tuned for the release of this powerful tool that will make managing permissions a breeze.
 

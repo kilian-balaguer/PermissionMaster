@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/b14fbf91-d88f-4e42-b74f-64b9a2873b2e" alt="Image description">
+  <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/b14fbf91-d88f-4e42-b74f-64b9a2873b2e" alt="PermissionMaster Logo">
 </p>
 
 # PermissionMaster
 
-PermissionMaster is an macOS app designed to simplify the management of app permissions on your system. With PermissionMaster, you can easily manage and control the permissions granted to various applications.
+PermissionMaster is a powerful macOS app designed to simplify the management of app permissions on your system. With PermissionMaster, you can easily manage and control the permissions granted to various applications.
 
 ## Features
 
@@ -19,11 +19,11 @@ PermissionMaster is an macOS app designed to simplify the management of app perm
 PermissionMaster is now released and available for use. To get started:
 
 1. Download the latest release from the [Releases](https://github.com/appletech75/PermissionMaster/releases) page.
-2. Install PermissionMaster on your macOS.
+2. Install PermissionMaster on your macOS by double-clicking on the PermissionMaster Installer.dmg and drag and drop PermissionMaster into the download folder.
 3. Launch the app and explore the intuitive interface.
 4. Select an app from the list and manage its permissions with ease.
 
-Please note that currently, PermissionMaster only supports granting mic access. The ability to revoke mic access and manage other permissions will be added in future updates.
+Please note that currently, PermissionMaster only supports granting and revoking microphone access. The ability to grant and revoke camera, location, and more will be added in future updates.
 
 ## Contributions
 

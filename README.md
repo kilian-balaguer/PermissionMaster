@@ -31,5 +31,12 @@ Contributions to PermissionMaster are welcome! If you're interested in contribut
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/appletech75/PermissionMaster/assets/122736906/b48997dd-9c0a-467d-94c9-cc374f95c0f6)
-![Screenshot 2](https://github.com/appletech75/PermissionMaster/assets/122736906/cb16ec29-3506-4f8d-9169-e645be8babb2)
+<div>
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/ed5cc340-9bae-4894-bd0b-660133743691" alt="Screenshot 1" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/f5c7d676-9920-4346-9f20-b603a50914bd" alt="Screenshot 2" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/f59e6fe6-9435-41e1-8897-d44297eb46eb" alt="Screenshot 3" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/e42323f7-90b1-450f-b7ec-ed97aa6571e7" alt="Screenshot 4" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/a0739e35-f2d2-4057-862b-d8576659adec" alt="Screenshot 5" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/e4e7f55c-96a4-4e57-9c81-cc5218095725" alt="Screenshot 6" width="400" />
+    <img src="https://github.com/appletech75/PermissionMaster/assets/122736906/15d20b5c-5006-4369-a2dc-dc2cfa078d8c" alt="Screenshot 7" width="400" />
+</div>

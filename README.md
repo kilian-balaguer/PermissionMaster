@@ -23,7 +23,7 @@ PermissionMaster is now released and available for use. To get started:
 3. Launch the app and explore the intuitive interface.
 4. Select an app from the list and manage its permissions with ease.
 
-Please note that currently, PermissionMaster only supports granting and revoking microphone access. The ability to grant and revoke camera, location, and more will be added in future updates.
+Please note that currently, PermissionMaster only supports granting and revoking microphone and camera access. The ability to grant and revoke location, and more will be added in future updates.
 
 ## Contributions
 

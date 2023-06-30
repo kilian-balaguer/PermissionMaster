@@ -1,0 +1,25 @@
+name: Approval Required
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check for Approval
+        id: check_approval
+        run: |
+          # Replace this section with your custom logic for checking the approval
+          echo "Approval check logic goes here"
+          
+      - name: Set Status
+        uses: peter-evans/create-pull-request-status@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          state: ${{ steps.check_approval.outputs.status }}
+          description: ${{ steps.check_approval.outputs.message }}

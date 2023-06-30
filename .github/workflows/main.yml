@@ -1,0 +1,30 @@
+name: Pull Request Approval
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Approval
+        id: check_approval
+        run: |
+          if [[ ${{ github.actor }} == 'appletech75' ]]; then
+            echo "::set-output name=status::success"
+            echo "::set-output name=message::Approval granted."
+          else
+            echo "::set-output name=status::failure"
+            echo "::set-output name=message::Approval denied."
+          fi
+
+      - name: Set Status
+        uses: peter-evans/create-pull-request-status@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          state: ${{ steps.check_approval.outputs.status }}
+          description: ${{ steps.check_approval.outputs.message }}
